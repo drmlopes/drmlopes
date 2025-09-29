@@ -7,8 +7,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://leetcode.com/u/drmlopes/"><img width="32px" alt="LeetCode" title="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"/></a>
-  <a href="https://codeforces.com/profile/drmlopes"><img width="32px" alt="Codeforces" title="Codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg"/></a>
+  <a href="https://leetcode.com/u/drmlopes/"><img width="48px" alt="LeetCode" title="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"/></a>
+  <a href="https://codeforces.com/profile/drmlopes"><img width="48px" alt="Codeforces" title="Codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg"/></a>
 </p>
 
 <br/>
